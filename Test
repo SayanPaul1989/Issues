@@ -3,3 +3,4 @@ ipconfig
 echo %Path%
 echo "This is a change made in Remote."
 echo "This is a change made in Local again."
+echo "This is a change made in Remote again."
