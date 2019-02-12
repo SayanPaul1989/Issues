@@ -2,3 +2,4 @@ echo "This is a test"
 ipconfig
 echo %Path%
 echo "This is a change made in Remote."
+echo "This is a change made in Local again."
