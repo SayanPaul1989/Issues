@@ -1,4 +1,3 @@
-echo "This is a test"
 echo "This is a change made in Remote."
 echo "This is a change made in Local again."
 echo "This is a change made in Remote again."
